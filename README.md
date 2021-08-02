@@ -1,6 +1,5 @@
 ### Hi there 👋
 
-<!--
 **Kajol232/Kajol232** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
@@ -15,4 +14,3 @@ Here are some ideas to get you started:
 
 #### Github Stats
 <img src="https://github-readme-stats.vercel.app/api?username=Kajol232&show_icons=true&theme=gotham" alt="github stats" width="45%" align="right"/>
--->

@@ -8,9 +8,9 @@
 About Me:
 
 - 🔭 I’m currently working as a Backend Engineer
-- 🌱 I’m currently learning: C#, GraphQl, and GCP cloud Technologies.
+- 🌱 I’m currently learning: GraphQl, Python, Odoo.
 - 👯 I’m looking to collaborate on Microservices Projects
-- 💬 Ask me about: Java, JSP, SpringBoot, Docker, DockerCompose, and Kubernetes.
+- 💬 Ask me about: C#, Dotnet, GCP, Java,ODK Framework, JSP, SpringBoot, Docker, DockerCompose, and Kubernetes.
 - 😄 Pronouns: She/Her.
 - ⚡ Fun fact: ...
 
